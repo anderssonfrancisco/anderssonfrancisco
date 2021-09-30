@@ -1,4 +1,4 @@
-### Olá sou o Andersson Francisco! 👨‍💻
+### Olá sou Andersson Francisco! 👨‍💻
 
 📚 Atualmente estudando tecnologias back-end, em especial JAVA
 ##
